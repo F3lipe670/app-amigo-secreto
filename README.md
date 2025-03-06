@@ -27,9 +27,12 @@ AmigoSecreto/
 ## ▶️ Cómo Ejecutar el Proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/F3lipe670/app-amigo-secreto.git
    ```
 2. Abrir el archivo index.html en un navegador web.
+
+## 📷 Capturas de Pantalla
+![Captura de Pantalla](https://github.com/F3lipe670/app-amigo-secreto/blob/main/assets/captura-pantalla.gif)
 
 ## 📌 Estado del Proyecto
 
